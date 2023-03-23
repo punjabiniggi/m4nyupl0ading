@@ -10,9 +10,12 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "dev": "node index.js"
+    "dev": "node manyuploading.js"
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+   "engines": {
+    "node": ">=18"
+  }
 }
